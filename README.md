@@ -1,2 +1,2 @@
-# Stock-Price-PRediction-using-LSTM
+# Stock-Price-Prediction-using-LSTM
 Using LSTM (Long Short Term Memory) architecture to predict stock prices
